@@ -1,0 +1,17 @@
+.container-update-tweets{
+    width: 100%;
+    min-height: 48px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: 1px solid rgb(47, 51, 54);
+    border-bottom: 1px solid rgb(47, 51, 54);
+    border-right: 0;
+    border-left: 0;
+}
+
+.text-update-tweets{
+    color: rgb(29, 155, 240);
+    font-size: 15px;
+}
