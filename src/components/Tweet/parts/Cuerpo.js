@@ -1,9 +1,9 @@
 import React from 'react'
 
-const cuerpo = () => {
+const Cuerpo = () => {
   return (
-    <div>cuerpo</div>
+    <div>Cuerpo</div>
   )
 }
 
-export default cuerpo
+export default Cuerpo

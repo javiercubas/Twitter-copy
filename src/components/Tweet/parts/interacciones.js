@@ -1,9 +1,9 @@
 import React from 'react'
 
-const interacciones = () => {
+const Interacciones = () => {
   return (
-    <div>interacciones</div>
+    <div>Interacciones</div>
   )
 }
 
-export default interacciones
+export default Interacciones

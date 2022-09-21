@@ -1,9 +1,7 @@
 import React from 'react'
-function actions(){
-const actions = () => {
+function Acciones(){
   return (
-    <div>actions</div>
+    <div>Actions</div>
   )
 }
-}
-export default actions
+export default Acciones
