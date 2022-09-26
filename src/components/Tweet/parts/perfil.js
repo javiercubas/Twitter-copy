@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Perfil= () => {
+function Perfil () {
   return (
     <div>Perfil</div>
   )

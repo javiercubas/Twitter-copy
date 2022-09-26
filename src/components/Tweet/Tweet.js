@@ -1,10 +1,13 @@
 
 import React from 'react'
+import Acciones from './parts/Acciones';
+import Perfil from './parts/Perfil';
 
-const Tweet = () => {
+function Tweet() {
   return (
-    <div>Tweet</div>
-  )
-}
 
+<Perfil/>
+
+  );
+}
 export default Tweet
